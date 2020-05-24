@@ -1,4 +1,3 @@
-# Meraki Dashboard with Google Scripts & Forms
 
 ## Overview
 
@@ -80,6 +79,10 @@ If everything worked, you should get an email from Meraki asking to complete the
 
 ## SUCCESS!
 With Google Apps, you do not even need to host a server to run the application\.
+
+##Developer :
+Satyam kumar mishra
+17BCS3656@cuchd.in
 
 
 
