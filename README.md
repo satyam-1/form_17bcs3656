@@ -76,11 +76,10 @@ If everything worked, you should get an email from Meraki asking to complete the
 
 
 ## Verify Meraki account is created
-- Meraki Dashboard --> Organization --> Administrators
+- Meraki Dashboard   > Organization   > Administrators
 
 ## SUCCESS!
-
-You have now used the Meraki APIs to dynamically create Meraki administrator accounts. With Google Apps, you do not even need to host a server to run the application. Cool!
+With Google Apps, you do not even need to host a server to run the application\.
 
 
 
